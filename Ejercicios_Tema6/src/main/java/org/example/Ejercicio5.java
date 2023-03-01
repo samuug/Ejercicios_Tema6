@@ -110,7 +110,7 @@ public class Ejercicio5 {
                 case 4:
                     inicializarLienzo(lienzo);
                     mostrarLienzo(lienzo);
-                    System.out.println("Cojo un lienzo lo tiro por el retrete y ya son 200 los retretes");
+                    System.out.println("Cojo un lienzo lo tiro por el retrete y ya son 200 los retretes que hemos tirado por el lienzo :)");
                     break;
                 case 5:
                     System.out.println("Saliendo...");
